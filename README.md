@@ -1,9 +1,9 @@
 # sobre mim
 - 👋 Hi, I’m @gustavolima7
--meu imail de contato é estudante.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+-:+1:meu imail de contato é estudante.alura@gmail.com.br
+- 👀 eu estou enteressado a aprender novas linguagens.
+- 🌱 eu estou aprendendo a programar recentemente a linguagen javaScript e scratch.
+-
 
 
